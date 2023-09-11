@@ -2,3 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=196code-gray&theme=buefy&show_icons=true)
 
+생각하며 코드를 작성하는 개발자 김은정입니다. 
+
+<div align="center">
+          생각하며 코드를 작성하는 개발자, 김은정입니다.
+</div>
