@@ -2,8 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=196code-gray&theme=buefy&show_icons=true) 
 
-백엔드 개발자, 김은정입니다.
-현재 블로그를 운영하고 있습니다.
-알고리즘을 공부중이며, 취업 준비를 하고 있습니다.          
-자바와 스프링에 대해 공부합니다.
-의사소통을
+백엔드 개발자, 김은정입니다.  
+현재 블로그를 운영하고 있습니다.  
+알고리즘을 공부중입니다.  
+자바와 스프링에 대해 공부합니다. 
