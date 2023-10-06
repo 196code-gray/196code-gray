@@ -2,4 +2,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=196code-gray&theme=buefy&show_icons=true) 
 
-안녕하세요, 백엔드 개발자 김은정입니다.
