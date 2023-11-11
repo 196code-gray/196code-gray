@@ -2,4 +2,10 @@
 
 <div align="center"> <h2> 백엔드 개발자 김은정입니다. </h2> </div>
 
+<div align="center"> "무엇을" 보다 "왜" 를 더 생각합니다. </div>
+
+
+
+</br>
+
 <div align="center"> Blog : https://velog.io/@196code-gray </div>
