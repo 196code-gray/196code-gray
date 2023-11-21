@@ -4,7 +4,7 @@
 
 <div align="center"> "무엇을" 보다 "왜" 를 더 생각합니다. </div>
 
-
+<div align="center"> 꾸준히 알고리즘 문제를 풀며 알고리즘에 대한 이해도를 높입니다. </div>
 
 </br>
 
