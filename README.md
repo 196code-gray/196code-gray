@@ -8,4 +8,4 @@
 
 </br>
 
-<div align="center"> Blog : https://velog.io/@196code-gray </div>
+<div align="center"> Blog : https://196code-gray.tistory.com/ </div>
